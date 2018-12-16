@@ -13,6 +13,7 @@ Components:
 
 Inspiration:
 
-- [jare/drop-in](https://github.com/JAremko/drop-in): 
+- [jare/drop-in](https://github.com/JAremko/drop-in)
+- [tretkow/vim](https://github.com/tretkow/docker-vim/blob/master/Dockerfile)
 - [Pair programming with Docker, SSH and TMUX](https://binarapps.com/blog/pair-programming-with-docker-ssh-and-tmux/)
 - [The iPad Pro as main computer for programming](https://jann.is/ipad-pro-for-programming/)
